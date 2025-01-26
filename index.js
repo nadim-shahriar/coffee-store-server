@@ -12,8 +12,7 @@ app.use(cors());
 app.use(express.json());
 
 
-// coffeeMaster
-// zz3yfW0jQuAu10Vu
+
 
 // console.log(process.env.DB_USER)
 // console.log(process.env.DB_PASS)
